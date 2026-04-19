@@ -48,16 +48,16 @@
 *   **[Souvenir Shop & RBAC System](https://github.com/kak-rastoki/souvenir-shop-rbac-flask)** 
      Фулл-стак интернет-магазин на python Flask + React.. Реализована ролевая модель (RBAC), Dashboard продавца, Панель администратора и интеграция с БД SQLite/PostgreSQL.
     
-*   **[MyKHSU](https://github.com/PRO100BYTE/MyKHSU/tree/update-2.3.2) (Contributor)**
-    Участие в разработке экосистемного проекта для студентов и преподавателей ХГУ ИТИ. Работа в команде над обновлением функционала и оптимизацией логики приложения.
+*   **[MyKHSU](https://github.com/PRO100BYTE/MyKHSU/tree/update-2.3.2)**
+    Участие в разработке экосистемного проекта для студентов и преподавателей ХГУ ИТИ. Работа в команде над обновлением функционала и оптимизацией логики приложения. (Contributor)
 
 *   **[Project Arcade](https://github.com/PRO100BYTE/ProjectArcade)**
-    Участие в разработке открытой платформы для игровых сервисов. Опыт работы в команде над сложной архитектурой и интеграциями.
+    Участие в разработке открытой платформы для игровых сервисов. Опыт работы в команде над сложной архитектурой и интеграциями. (Contributor)
 
-*   **[HotTask](https://sourcecraft.dev/krivonosov-roma1/hottask)**
+*   **[Hottask](https://sourcecraft.dev/krivonosov-roma1/hottask)**
     Система управления задачами и автоматизации личной продуктивности
 
-*   **[Kiosk Info](https://github.com/kak-rastoki/kiosk-info)**
+*   **[KioskHub](https://github.com/kak-rastoki/kiosk-info)**
     Информационная система для информационного киоска. Интерфейс для публичной точки доступа.
 
 ---
