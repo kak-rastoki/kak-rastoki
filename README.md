@@ -8,11 +8,38 @@
 
 ### 🛠 Стек технологий:
 
-*   **Backend:** C# (.NET, ASP.NET Core), Python (Flask, Django)
-*   **Databases:** PostgreSQL, MS SQL, SQLite
-*   **Frontend:** React, TypeScript, JavaScript, HTML5/CSS3 (BEM)
-*   **Infrastructure:** Администрирование Linux/Windows Server, Bash, Docker, Git
-*   **Engineering:** Проектирование и моделирование бизнес-процессов (IDEF0, DFD, ER, Use-case и другие), выявление проблемных точек, поиск решения
+**Backend:**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+**Databases:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Frontend:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-black?style=for-the-badge&logo=bem&logoColor=white)
+
+**Infrastructure:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Engineering:**
+![Business Processes](https://img.shields.io/badge/Проектирование%20БП-00599C?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![IDEF0/DFD/ER](https://img.shields.io/badge/IDEF0%20%7C%20DFD%20%7C%20ER-3F3F3F?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Analysis](https://img.shields.io/badge/Анализ%20и%20решение%20задач-success?style=for-the-badge)
 
 ---
 
