@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Привет! Я Роман Кривоносов
 
-<!--
-**kak-rastoki/kak-rastoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Engineer | Backend&Frontend Developer | Systems Administrator
 
-Here are some ideas to get you started:
+Я — веб-разработчик с глубоким бэкграундом в системном администрировании и проектировании информационных систем. Мой опыт сочетает в себе академическую базу (Магистратура ИТиВТ с отличием) и практическую разработку корпоративных решений.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Стек технологий:
+
+*   **Backend:** C# (.NET, ASP.NET Core), Python (Flask, Django)
+*   **Databases:** PostgreSQL, MS SQL, SQLite
+*   **Frontend:** React, TypeScript, JavaScript, HTML5/CSS3 (BEM)
+*   **Infrastructure:** Администрирование Linux/Windows Server, Bash, Docker, Git
+*   **Engineering:** Проектирование и моделирование бизнес-процессов (IDEF0, DFD, ER, Use-case и другие), выявление проблемных точек, поиск решения
+
+---
+
+### 🏆 Ключевые проекты / Key Projects:
+
+*   **[Souvenir Shop & RBAC System](https://github.com/kak-rastoki/souvenir-shop-rbac-flask)** 
+    *Практическая часть магистерской диссертации.* Высокофункциональный интернет-магазин с гибридной архитектурой (**Flask + React**). Реализована сложная ролевая модель доступа (RBAC), Dashboard продавца и проектирование реляционной БД из 11 таблиц.
+    
+*   **[MyKHSU](https://github.com/PRO100BYTE/MyKHSU/tree/update-2.3.2) (Contributor)**
+    Участие в разработке экосистемного проекта для студентов и преподавателей ХГУ ИТИ. Работа в команде над обновлением функционала и оптимизацией логики приложения.
+
+*   **[Project Arcade](https://github.com/PRO100BYTE/ProjectArcade)**
+    Участие в разработке открытой платформы для игровых сервисов. Опыт работы в команде над сложной архитектурой и интеграциями.
+
+*   **[HotTask](https://sourcecraft.dev/krivonosov-roma1/hottask)**
+    Система управления задачами и автоматизации личной продуктивности
+
+*   **[Kiosk Info](https://github.com/kak-rastoki/kiosk-info)**
+    Информационная система для информационного киоска. Интерфейс для публичной точки доступа.
+
+---
+
+### 🎓 Образование и экспертиза:
+
+*   **Магистр (с отличием):** Информатика и вычислительная техника 
+*   **Бакалавр (с отличием):** Прикладная информатика в экономике 
+*   **Эксперт:** Официальный статус эксперта демонстрационных экзаменов по специальности «Информационные системы и программирование».
+*   **Менторство:** 3 года опыта преподавания ИТ-дисциплин, подготовка призеров региональных чемпионатов по веб-разработке и системному администрированию.
+
+---
+
+### 📫 Как со мной связаться:
+
+*   **Telegram:** [@kakrasoki](https://t.me/kakrastoki)
+*   **Email:** [krivonra@mail.ru](mailto:krivonra@mail.ru)
